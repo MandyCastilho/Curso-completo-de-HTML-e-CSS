@@ -1,7 +1,7 @@
 # 🌸 Meu Primeiro Repositório de Estudos — HTML & CSS
 
 <p align="center">
-  Bem-vindo(a) ao meu cantinho de evolução no **front-end!** 🚀
+  Bem-vindo(a) ao meu cantinho de evolução no <strong>front-end!</strong> 🚀
 </p>
 
 Criei este repositório para registrar minha jornada aprendendo **HTML5** e **CSS3**, desde os primeiros códigos até projetos mais elaborados. Aqui você vai encontrar meus testes, práticas, mini-projetos e tudo que estou explorando enquanto evoluo no desenvolvimento web.
